@@ -1,0 +1,2 @@
+SUCCESS_NO = 1
+ERROR_NO = 0
